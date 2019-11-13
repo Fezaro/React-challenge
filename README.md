@@ -1,4 +1,4 @@
-## The challenge: 
+# The challenge: 
 From Andela Learning Community cloud Track(ALC4)
 
 **To Deploy React Application using Docker and Google Cloud Platform**
@@ -14,7 +14,7 @@ From Andela Learning Community cloud Track(ALC4)
   7. Expose your app to the Internet
 
 
-# Check out the [article](https://medium.com/@mxmugendi/dockerizing-and-deploying-a-react-application-with-kubernetes-on-gcp-c102f73a4cdb?source=friends_link&sk=c25310fcda22a4f5280886aab2d7240d) on the whole challenge:
+## Check out the [article](https://medium.com/@mxmugendi/dockerizing-and-deploying-a-react-application-with-kubernetes-on-gcp-c102f73a4cdb?source=friends_link&sk=c25310fcda22a4f5280886aab2d7240d) on the whole challenge
 
 
 
