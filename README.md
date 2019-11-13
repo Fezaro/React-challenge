@@ -1,4 +1,20 @@
-Check out the [article](https://medium.com/@mxmugendi/dockerizing-and-deploying-a-react-application-with-kubernetes-on-gcp-c102f73a4cdb?source=friends_link&sk=c25310fcda22a4f5280886aab2d7240d) on the whole challenge:
+## The challenge: 
+From Andela Learning Community cloud Track(ALC4)
+
+**To Deploy React Application using Docker and Google Cloud Platform**
+
+## How to start
+
+  1. Create a React App (Create React App)
+  2. Package your app into a Docker image
+  3. Run the container locally on your machine 
+  4. Upload the image to a registry (Docker Hub)
+  5. Create a container cluster (inside Kubernetes Engine in GCP)
+  6. Deploy your app to the cluster
+  7. Expose your app to the Internet
+
+
+# Check out the [article](https://medium.com/@mxmugendi/dockerizing-and-deploying-a-react-application-with-kubernetes-on-gcp-c102f73a4cdb?source=friends_link&sk=c25310fcda22a4f5280886aab2d7240d) on the whole challenge:
 
 
 
