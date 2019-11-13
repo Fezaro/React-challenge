@@ -1,3 +1,7 @@
+Check out the [article](https://medium.com/@mxmugendi/dockerizing-and-deploying-a-react-application-with-kubernetes-on-gcp-c102f73a4cdb?source=friends_link&sk=c25310fcda22a4f5280886aab2d7240d) on the whole challenge:
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
